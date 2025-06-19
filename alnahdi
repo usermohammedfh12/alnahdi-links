@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>مجوهرات النهدي – وصلنا بكل سهولة</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background: url('https://i.imgur.com/DrOuC7r.png') no-repeat top center / 120px,
+                  linear-gradient(135deg, #f5f2ec, #ffffff);
+      background-blend-mode: lighten;
+      direction: rtl;
+      text-align: center;
+    }
+    .container {
+      max-width: 400px;
+      margin: 160px auto 40px;
+      padding: 30px;
+      background: rgba(255, 255, 255, 0.85);
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    }
+    .logo {
+      display: none;
+    }
+    h1 {
+      margin: 10px 0 30px;
+      font-size: 24px;
+      color: #006f4c;
+    }
+    .link-btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 12px 0;
+      padding: 12px 20px;
+      border-radius: 8px;
+      font-size: 18px;
+      color: #fff;
+      text-decoration: none;
+      transition: background 0.3s;
+    }
+    .link-btn img {
+      width: 24px;
+      margin-left: 12px;
+    }
+    .tiktok { background: #000; }
+    .whatsapp { background: #25d366; }
+    .snapchat { background: #fffc00; color: #000; }
+    .maps    { background: #4285f4; }
+    .link-btn:hover { opacity: 0.9; }
+    footer { margin-top: 30px; font-size: 14px; color: #999; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>مجوهرات النهدي</h1>
+    <a href="https://www.tiktok.com/@alnahdijewelry" class="link-btn tiktok" target="_blank">
+      دخول TikTok
+      <img src="https://i.imgur.com/5K7mPvl.png" alt="TikTok">
+    </a>
+    <a href="https://wa.me/966551931424" class="link-btn whatsapp" target="_blank">
+      تواصل واتساب
+      <img src="https://i.imgur.com/jU5Rifz.png" alt="WhatsApp">
+    </a>
+    <a href="https://snapchat.com/t/bbAF1B3p" class="link-btn snapchat" target="_blank">
+      سناب شات
+      <img src="https://i.imgur.com/a18ZYYJ.png" alt="Snapchat">
+    </a>
+    <a href="https://maps.app.goo.gl/wSiBhSvkWUFVE56T6" class="link-btn maps" target="_blank">
+      موقع المحل
+      <img src="https://i.imgur.com/zsrx5mG.png" alt="Maps">
+    </a>
+    <footer>
+      ©️ 2025 مجوهرات النهدي
+    </footer>
+  </div>
+</body>
+</html>
